@@ -1,0 +1,8 @@
+numpy
+torch
+setfit
+datasets
+pandas
+scikit-learn
+scipy
+matplotlib
